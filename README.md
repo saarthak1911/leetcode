@@ -12,3 +12,4 @@
 | 4 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 283 | [Java](./move_zeros.java) | Easy | 07-05-26|
 | 5 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 238 | [Python](./product_of_array_except_self.py) | Medium | 08-05-26|
 | 6 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 509 | [Java](./fibonacci_number.java) | Easy | 09-05-26|
+| 7 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | 1768 | [Java](./merge_strings_alternately.java) | Easy | 09-05-26|
