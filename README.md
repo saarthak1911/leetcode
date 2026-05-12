@@ -15,3 +15,5 @@
 | 7 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | 1768 | [Java](./merge_strings_alternately.java) | Easy | 09-05-26|
 | 8 | [Greatest Common Divisor Of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | 1071 | [Java](./greatest_common_divisor_of_string.java) | Easy | 10-05-26|
 | 9 | [Kids With the Greatest No of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | 1431 | [Java](./kids_with_greatest_no_of_candies.java) | Easy | 11-05-26|
+| 10 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | 605 | [Java](./can_place_flowers.java) | Easy | 11-05-26|
+| 11 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | 345 | [Java](./reverse_vowels_of_string.java) | Easy | 12-05-26|
