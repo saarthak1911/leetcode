@@ -17,4 +17,4 @@
 | 9 | [Kids With the Greatest No of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | 1431 | [Java](./kids_with_greatest_no_of_candies.java) | Easy | 11-05-26|
 | 10 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | 605 | [Java](./can_place_flowers.java) | Easy | 11-05-26|
 | 11 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | 345 | [Java](./reverse_vowels_of_string.java) | Easy | 12-05-26|
-| 12 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | 151 | [Java](./reverse_vowels_of_string.java) | Medium   | 13-05-26|
+| 12 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | 151 | [Java](./reverse_words_in_string.java) | Medium   | 13-05-26|
