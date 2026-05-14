@@ -1,0 +1,30 @@
+class Solution {
+
+    public boolean increasingTriplet(int[] nums) {
+
+        int num1 = Integer.MAX_VALUE;
+        int num2 = Integer.MAX_VALUE;
+
+        for(int i = 0; i < nums.length; i++) {
+
+            int num3 = nums[i];
+
+            // First smallest number
+            if(num3 <= num1) {
+                num1 = num3;
+            }
+
+            // Second smallest number
+            else if(num3 <= num2) {
+                num2 = num3;
+            }
+
+            // Found third greater number
+            else {
+                return true;
+            }
+        }
+
+        return false;
+    }
+}
