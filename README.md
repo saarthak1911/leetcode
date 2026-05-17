@@ -22,3 +22,6 @@
 | 14 | [String Compression](https://leetcode.com/problems/string-compression) | 443 | [Java](./string_compression.java) | Medium | 15-05-26|
 | 15 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | 153 | [Java](./find_minimum_in_rotated_sorted_array.java) | Medium | 15-05-26|
 | 15 | [Find Minimum in Rotated Sorted Array II ](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | 154 | [Java](./find_minimum_in_rotated_sorted_array_2.java) | Hard | 16-05-26|
+| 16 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | 392 | [Java](./is_subsequence.java) | Easy | 17-05-26|
+| 17 | [Jump Game III ](https://leetcode.com/problems/jump-game-iii) | 1306 | [Java](./jump_game_3.java) | Medium | 17-05-26|
+
