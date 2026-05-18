@@ -24,4 +24,6 @@
 | 15 | [Find Minimum in Rotated Sorted Array II ](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | 154 | [Java](./find_minimum_in_rotated_sorted_array_2.java) | Hard | 16-05-26|
 | 16 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | 392 | [Java](./is_subsequence.java) | Easy | 17-05-26|
 | 17 | [Jump Game III ](https://leetcode.com/problems/jump-game-iii) | 1306 | [Java](./jump_game_3.java) | Medium | 17-05-26|
+| 18 | [Container With Most Water ](https://leetcode.com/problems/container-with-most-water) | 11 | [Java](./container_with_most_water.java) | Medium | 18-05-26|
+| 19 | [Jump Game IV ](https://leetcode.com/problems/jump-game-iv) | 1345 | [Java](./jump_game_4.java) | Hard | 18-05-26|
 
