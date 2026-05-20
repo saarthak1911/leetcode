@@ -1,7 +1,5 @@
 
 
-# LeetCode
-
 ## LeetCode Algorithm
 
 | # | Title | Leetcode No | Solution | Difficulty | Date |
