@@ -24,4 +24,5 @@
 | 17 | [Jump Game III ](https://leetcode.com/problems/jump-game-iii) | 1306 | [Java](./jump_game_3.java) | Medium | 17-05-26|
 | 18 | [Container With Most Water ](https://leetcode.com/problems/container-with-most-water) | 11 | [Java](./container_with_most_water.java) | Medium | 18-05-26|
 | 19 | [Jump Game IV ](https://leetcode.com/problems/jump-game-iv) | 1345 | [Java](./jump_game_4.java) | Hard | 18-05-26|
-
+| 20 | [Max Number of K-Sum Pairs ](https://leetcode.com/problems/max-number-of-k-sum-pairs) | 1679 | [Java](./max_number_of_k_sum_pairs.java) | Medium | 19-05-26|
+| 21 | [Minimum Common Value ](https://leetcode.com/problems/minimum-common-value) | 2540 | [Java](./minimum_common_value.java) | Easy | 19-05-26|
