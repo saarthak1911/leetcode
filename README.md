@@ -31,7 +31,7 @@
 | 24 | [Maximum Number of Vowels in a Substring of Given Length ](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length) | 1456 | [Java](./max_num_of_vowels_in_substring.java) | Medium | 21-05-26|
 | 25 | [Find the Length of the Longest Common Prefix ](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix) | 3043 | [Java](./length_of_longest_common_prefix.java) | Medium | 21-05-26|
 | 26 | [Max Consecutive Ones III ](https://leetcode.com/problems/max-consecutive-ones-iii) | 1004 | [Java](./max_consecutive_ones_3.java) | Medium | 22-05-26|
-| 27 | [Search in Rotated Sorted Array ](https://leetcode.com/problems/search-in-rotated-sorted-array) | 33 | [Java](./search_in_rotated_sorted_array.java) | Medium | 22-05-26|
+| 27 | [Search in Rotated Sorted Array ](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | 33 | [Java](./search_in_rotated_sorted_array.java) | Medium | 22-05-26|
 | 28 | [Longest Subarray of 1's After Deleting One Element ](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | 1493 | [Java](./longest_subarray_of_1_after_deleting_element.java) | Medium | 23-05-26|
 | 29 | [ Check if Array Is Sorted and Rotated ](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | 1752 | [Java](./chech_array_is_sorted_and_rotated.java) | Easy | 23-05-26|
 
