@@ -32,3 +32,6 @@
 | 25 | [Find the Length of the Longest Common Prefix ](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix) | 3043 | [Java](./length_of_longest_common_prefix.java) | Medium | 21-05-26|
 | 26 | [Max Consecutive Ones III ](https://leetcode.com/problems/max-consecutive-ones-iii) | 1004 | [Java](./max_consecutive_ones_3.java) | Medium | 22-05-26|
 | 27 | [Search in Rotated Sorted Array ](https://leetcode.com/problems/search-in-rotated-sorted-array) | 33 | [Java](./search_in_rotated_sorted_array.java) | Medium | 22-05-26|
+| 28 | [Longest Subarray of 1's After Deleting One Element ](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | 1493 | [Java](./search_in_rotated_sorted_array.java) | Medium | 23-05-26|
+
+
