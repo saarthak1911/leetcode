@@ -34,4 +34,6 @@
 | 27 | [Search in Rotated Sorted Array ](https://leetcode.com/problems/search-in-rotated-sorted-array) | 33 | [Java](./search_in_rotated_sorted_array.java) | Medium | 22-05-26|
 | 28 | [Longest Subarray of 1's After Deleting One Element ](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | 1493 | [Java](./longest_subarray_of_1_after_deleting_element.java) | Medium | 23-05-26|
 | 29 | [ Check if Array Is Sorted and Rotated ](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | 1752 | [Java](./chech_array_is_sorted_and_rotated.java) | Easy | 23-05-26|
+| 30 | [ Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | 1732 | [Java](./find_highest_altitude.java) | Easy | 24-05-26|
+| 31 | [ Jump Game V](https://leetcode.com/problems/jump-game-v) | 1340 | [Java](./jump_game_v.java) | Hard | 24-05-26|
 
