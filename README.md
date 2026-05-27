@@ -39,6 +39,6 @@
 | 32 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | 724 | [Java](./find_pivto_index.java) | Easy | 25-05-26|
 | 33 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii) | 1871 | [Java](./jump_game_7.java) | Medium | 25-05-26|
 | 34 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | 2215 | [Java](./difference_of_two_arrays.java) | Easy | 26-05-26|
-| 35 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i) | 3120 | [Java](./count_no_of_special_char.java) | Easy | 26-05-26|
-
-
+| 35 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i) | 3120 | [Java](./count_no_of_special_char_1.java) | Easy | 26-05-26|
+| 36 | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii) | 3121 | [Java](./count_no_of_special_char_2.java) | Medium | 27-05-26|
+| 37 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | 1207 | [Java](./unique_number_of_occurrences.java) | Medium | 27-05-26|
