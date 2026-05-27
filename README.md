@@ -36,9 +36,9 @@
 | 29 | [ Check if Array Is Sorted and Rotated ](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | 1752 | [Java](./chech_array_is_sorted_and_rotated.java) | Easy | 23-05-26|
 | 30 | [ Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | 1732 | [Java](./find_highest_altitude.java) | Easy | 24-05-26|
 | 31 | [ Jump Game V](https://leetcode.com/problems/jump-game-v) | 1340 | [Java](./jump_game_v.java) | Hard | 24-05-26|
-| 32 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | 724 | [Java](./jump_game_v.java) | Easy | 25-05-26|
-| 33 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii) | 1871 | [Java](./jump_game_v.java) | Medium | 25-05-26|
-| 34 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | 2215 | [Java](./jump_game_v.java) | Easy | 26-05-26|
-| 35 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i) | 3120 | [Java](./jump_game_v.java) | Easy | 26-05-26|
+| 32 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | 724 | [Java](./find_pivto_index.java) | Easy | 25-05-26|
+| 33 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii) | 1871 | [Java](./jump_game_7.java) | Medium | 25-05-26|
+| 34 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | 2215 | [Java](./difference_of_two_arrays.java) | Easy | 26-05-26|
+| 35 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i) | 3120 | [Java](./count_no_of_special_char.java) | Easy | 26-05-26|
 
 
