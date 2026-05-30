@@ -46,3 +46,7 @@
 | 39 | [Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries) | 3093 | [Java](./longest_common_suffix_query.java) | Hard | 28-05-26|
 | 40 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs) | 2352 | [Java](./longest_common_suffix_query.java) | Medium | 29-05-26|
 | 41 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum) | 3300 | [Java](./min_ele_after_replacement_with_digit_sum.java) | Easy | 29-05-26|
+| 42 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string) | 2390 | [Java](./min_ele_after_replacement_with_digit_sum.java) | Medium | 30-05-26|
+| 43 | [Block Placement Queries](https://leetcode.com/problems/block-placement-queries) | 3161 | [Java](./min_ele_after_replacement_with_digit_sum.java) | Hard | 30-05-26|
+
+
