@@ -42,3 +42,7 @@
 | 35 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i) | 3120 | [Java](./count_no_of_special_char_1.java) | Easy | 26-05-26|
 | 36 | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii) | 3121 | [Java](./count_no_of_special_char_2.java) | Medium | 27-05-26|
 | 37 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | 1207 | [Java](./unique_number_of_occurrences.java) | Medium | 27-05-26|
+| 38 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close) | 1657 | [Java](./determine_if_two_strings_are_close.java) | Medium | 28-05-26|
+| 39 | [Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries) | 3093 | [Java](./longest_common_suffix_query.java) | Hard | 28-05-26|
+| 40 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs) | 2352 | [Java](./longest_common_suffix_query.java) | Medium | 29-05-26|
+| 41 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum) | 3300 | [Java](./min_ele_after_replacement_with_digit_sum.java) | Easy | 29-05-26|
