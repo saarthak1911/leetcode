@@ -48,5 +48,5 @@
 | 41 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum) | 3300 | [Java](./min_ele_after_replacement_with_digit_sum.java) | Easy | 29-05-26|
 | 42 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string) | 2390 | [Java](./removing_stars_from_string.java) | Medium | 30-05-26|
 | 43 | [Block Placement Queries](https://leetcode.com/problems/block-placement-queries) | 3161 | [Java](./block_placement_queries.java) | Hard | 30-05-26|
-
-
+| 44 | [Destroying Asteroids](https://leetcode.com/destroying-asteroids) | 2126 | [Java](./destroying_asteroids.java) | Medium | 31-05-26|
+| 45 | [Asteroid Collision](https://leetcode.com/asteroid-collision) | 735 | [Java](./asteroid_collision.java) | Medium | 31-05-26|
