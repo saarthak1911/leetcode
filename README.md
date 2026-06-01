@@ -50,3 +50,8 @@
 | 43 | [Block Placement Queries](https://leetcode.com/problems/block-placement-queries) | 3161 | [Java](./block_placement_queries.java) | Hard | 30-05-26|
 | 44 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids) | 2126 | [Java](./destroying_asteroids.java) | Medium | 31-05-26|
 | 45 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | 735 | [Java](./asteroid_collision.java) | Medium | 31-05-26|
+| 46 | [Decode String](https://leetcode.com/problems/decode-string) | 394 | [Java](./decode_string.java) | Medium | 01-06-26|
+| 47 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount) | 2144 | [Java](./min_cost_of_buying_candies_with_discount.java) | Easy | 01-06-26|
+
+
+
