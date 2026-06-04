@@ -52,6 +52,9 @@
 | 45 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | 735 | [Java](./asteroid_collision.java) | Medium | 31-05-26|
 | 46 | [Decode String](https://leetcode.com/problems/decode-string) | 394 | [Java](./decode_string.java) | Medium | 01-06-26|
 | 47 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount) | 2144 | [Java](./min_cost_of_buying_candies_with_discount.java) | Easy | 01-06-26|
-
+| 48 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) | 933 | [Java](./number_of_recent_calls.java) | Easy | 02-06-26|
+| 49 | [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i) | 3633 | [Java](./earlist_finish_time_for_land_and_water_ride_1.java) | Easy | 02-06-26|
+| 50 | [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii) | 3635 | [Java](./earlist_finish_time_for_land_and_water_ride_2.java) | Medium | 03-06-26|
+| 51 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate) | 649 | [Java](./dota2_senate.java) | Medium | 03-06-26|
 
 
