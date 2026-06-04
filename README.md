@@ -56,5 +56,6 @@
 | 49 | [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i) | 3633 | [Java](./earlist_finish_time_for_land_and_water_ride_1.java) | Easy | 02-06-26|
 | 50 | [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii) | 3635 | [Java](./earlist_finish_time_for_land_and_water_ride_2.java) | Medium | 03-06-26|
 | 51 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate) | 649 | [Java](./dota2_senate.java) | Medium | 03-06-26|
-
+| 52 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | 2095 | [Java](./delete_middle_node_of_linked_list.java) | Medium | 04-06-26|
+| 53 | [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) | 3751 | [Java](./total_waviness_of_numbers_in_range_1.java) | Medium | 04-06-26|
 
