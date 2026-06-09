@@ -1,0 +1,50 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
+    ArrayList<Integer> arr1 = new ArrayList<>();
+    ArrayList<Integer> arr2 = new ArrayList<>();
+    public boolean leafSimilar(TreeNode root1, TreeNode root2) {
+        findLeafs( root1, arr1 );
+        findLeafs( root2, arr2 );
+
+        int n1 = arr1.size();
+        int n2 = arr2.size();
+
+        if( n1 != n2 ) return false;
+
+        for( int i = 0; i < n1; i++ ) {
+            if( !arr1.get( i ).equals( arr2.get( i ) ) ) {
+                return false;
+            }
+        }
+
+        return true;
+
+    }
+
+    private void findLeafs( TreeNode root, ArrayList<Integer> arr ) {
+        if( root == null ) return;
+
+        if( root.left == null && root.right == null ) {
+            arr.add(root.val);
+            return;
+        }
+
+        findLeafs( root.left, arr );
+        findLeafs( root.right, arr );
+
+    }
+}
