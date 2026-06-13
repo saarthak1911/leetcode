@@ -75,6 +75,7 @@
 | 68 | [Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii) | 3559 | [Java](./number_of_ways_to_assign_edge_weights_2.java) | Hard | 12-06-26|
 | 69 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree) | 1372 | [Java](./longest_zig_zag_path_in_binary_tree.java) | Medium | 12-06-26|
 | 70 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | 1539 | [Java](./longest_zig_zag_path_in_binary_tree.java) | Easy | 13-06-26|
-
+| 71 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | 236 | [Java](./longest_zig_zag_path_in_binary_tree.java) | Medium | 13-06-26|
+| 72 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping) | 3838 | [Java](./longest_zig_zag_path_in_binary_tree.java) | Easy | 13-06-26|
 
 
