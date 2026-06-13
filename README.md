@@ -1,4 +1,11 @@
+## Problem Statistics
 
+| Difficulty | Count |
+|------------|-------|
+| Easy       | 27    |
+| Medium     | 38    |
+| Hard       | 8     |
+| **Total**  | **73** |
 
 ## LeetCode Algorithm
 
