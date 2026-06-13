@@ -59,3 +59,31 @@
 | 52 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | 2095 | [Java](./delete_middle_node_of_linked_list.java) | Medium | 04-06-26|
 | 53 | [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i) | 3751 | [Java](./total_waviness_of_numbers_in_range_1.java) | Medium | 04-06-26|
 
+| 54 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | 328 | [Java](./odd_even_linked_list.java) | Medium | 05-06-26|
+| 55 | [Total Waviness of Numbers in Range II](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii) | 3753 | [Java](./total_waviness_of_numbers_in_range_2.java) | Hard | 05-06-26|
+
+| 56 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | 206 | [Java](./reverse_linked_list.java) | Easy | 06-06-26|
+| 57 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences) | 2574 | [Java](./left_and_right_sum_dfference.java) | Easy | 06-06-26|
+
+| 58 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list) | 2130 | [Java](./max_twin_sum_of_linked_list.java) | Medium | 07-06-26|
+| 59 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions) | 2196 | [Java](./create_binary_tree_from_description.java) | Medium | 07-06-26|
+
+| 60 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | 2161 | [Java](./partition_array_according_to_given_plot.txt) | Medium | 08-06-26|
+| 61 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | 104 | [Java](./maximum_depth_ofbinary_tree.txt) | Easy | 08-06-26|
+
+| 62 | [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i) | 3689 | [Java](./maximum_total_subarray_value_1.txt) | Medium | 09-06-26|
+| 63 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | 872 | [Java](./leaf_similar_trees.txt) | Easy | 09-06-26|
+
+| 64 | [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii) | 3691 | [Java](./maximum_total_subarray_value_2.txt) | Hard | 10-06-26|
+| 65 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree) | 1448 | [Java](./count_good_nodes_in_binary_tree.txt) | Medium | 10-06-26|
+
+| 66 | [Path Sum III](https://leetcode.com/problems/path-sum-iii) | 437 | [Java](./path_sum_3.java) | Medium | 11-06-26|
+| 67 | [Number of Ways to Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i) | 3558 | [Java](./number_of_ways_to_assign_edge_weights.java) | Medium | 11-06-26|
+
+| 68 | [Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii) | 3559 | [Java](./number_of_ways_to_assign_edge_weights_2.java) | Hard | 12-06-26|
+| 69 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree) | 1372 | [Java](./longest_zig_zag_path_in_binary_tree.java) | Medium | 12-06-26|
+
+| 70 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | 1539 | [Java](./longest_zig_zag_path_in_binary_tree.java) | Easy | 13-06-26|
+
+
+
