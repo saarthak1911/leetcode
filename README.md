@@ -51,7 +51,7 @@
 | 38 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | 1207 | [Java](./unique_number_of_occurrences.java) | Medium | 27-05-26|
 | 39 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close) | 1657 | [Java](./determine_if_two_strings_are_close.java) | Medium | 28-05-26|
 | 40 | [Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries) | 3093 | [Java](./longest_common_suffix_query.java) | Hard | 28-05-26|
-| 41 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs) | 2352 | [Java](./longest_common_suffix_query.java) | Medium | 29-05-26|
+| 41 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs) | 2352 | [Java](./equal_row_and_column_pair.java) | Medium | 29-05-26|
 | 42 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum) | 3300 | [Java](./min_ele_after_replacement_with_digit_sum.java) | Easy | 29-05-26|
 | 43 | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string) | 2390 | [Java](./removing_stars_from_string.java) | Medium | 30-05-26|
 | 44 | [Block Placement Queries](https://leetcode.com/problems/block-placement-queries) | 3161 | [Java](./block_placement_queries.java) | Hard | 30-05-26|
