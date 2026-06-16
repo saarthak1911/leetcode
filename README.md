@@ -84,5 +84,9 @@
 | 71 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | 1539 | [Java](./kth_missing_positive_number(brute_force).java) | Easy | 13-06-26|
 | 72 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | 236 | [Java](./lowest_common_ancestor_of_binary_tree.java) | Medium | 13-06-26|
 | 73 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping) | 3838 | [Java](./weighted_words_mapping.java) | Easy | 13-06-26|
-
-
+| 74 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list) | 2130 | [Java](./max_twin_sum_of_linked_list.txt) | Medium | 14-06-26|
+| 75 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | 199 | [Java](./binary_tree_right_side_view.txt) | Medium | 14-06-26|
+| 76 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree) | 1161 | [Java](./max_level_sum_of_binary_tree.java) | Medium | 15-06-26|
+| 77 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | 2095 | [Java](./delete-the-middle-node-of-a-linked-list.java) | Medium | 15-06-26|
+| 78 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | 700 | [Java](./search_in_binary_search_tree.java) | Easy | 16-06-26|
+| 79 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i) | 3612 | [Java](./process_string_with_special_operations_1.java) | Medium | 16-06-26|
