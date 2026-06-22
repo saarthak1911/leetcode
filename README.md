@@ -90,3 +90,18 @@
 | 77 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | 2095 | [Java](./delete-the-middle-node-of-a-linked-list.java) | Medium | 15-06-26|
 | 78 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | 700 | [Java](./search_in_binary_search_tree.java) | Easy | 16-06-26|
 | 79 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i) | 3612 | [Java](./process_string_with_special_operations_1.java) | Medium | 16-06-26|
+| 80 | [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii) | 3614 | [Java](./process_string_with_special_operations_2.java) | Hard | 17-06-26|
+| 81 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst) | 450 | [Java](./delete_node_in_bst.java) | Medium | 17-06-26|
+| 82 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock) | 1344 | [Java](./angle_between_hands_of_clock.java) | Medium | 18-06-26|
+| 83 | [Keys And Rooms](https://leetcode.com/problems/keys-and-rooms) | 841 | [Java](./keys_and_rooms.java) | Medium | 18-06-26|
+| 84 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | 1732 | [Java](./find_the_highest_altitude.java) | Easy | 19-06-26|
+| 85 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces) | 547 | [Java](./number_of_provinces.java) | Medium | 19-06-26|
+| 86 | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero) | 1466 | [Java](./reorder_routes_to_make_all_paths_lead_to_city_zero.java) | Medium | 20-06-26|
+| 87 | [Maximum Building Height](https://leetcode.com/problems/maximum-building-height) | 1840 | [Java](./max_building_height.java) | Hard | 20-06-26|
+| 88 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars) | 1833 | [Java](./max_ice_cream_bars.java) | Medium | 21-06-26|
+| 89 | [Evaluate Division](https://leetcode.com/problems/evaluate-division) | 399 | [Java](./evaluate_division.java) | Medium | 21-06-26|
+
+
+
+
+
