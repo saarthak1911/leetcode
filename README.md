@@ -100,6 +100,8 @@
 | 87 | [Maximum Building Height](https://leetcode.com/problems/maximum-building-height) | 1840 | [Java](./max_building_height.java) | Hard | 20-06-26|
 | 88 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars) | 1833 | [Java](./max_ice_cream_bars.java) | Medium | 21-06-26|
 | 89 | [Evaluate Division](https://leetcode.com/problems/evaluate-division) | 399 | [Java](./evaluate_division.java) | Medium | 21-06-26|
+| 90 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze) | 1926 | [Java](./nearest_exit_from_entrance_in_maze.java) | Medium | 22-06-26|
+| 91 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons) | 1189 | [Java](./max_number_of_baloons.java) | Easy | 22-06-26|
 
 
 
