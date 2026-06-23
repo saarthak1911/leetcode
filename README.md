@@ -102,6 +102,8 @@
 | 89 | [Evaluate Division](https://leetcode.com/problems/evaluate-division) | 399 | [Java](./evaluate_division.java) | Medium | 21-06-26|
 | 90 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze) | 1926 | [Java](./nearest_exit_from_entrance_in_maze.java) | Medium | 22-06-26|
 | 91 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons) | 1189 | [Java](./max_number_of_baloons.java) | Easy | 22-06-26|
+| 92 | [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i) | 3699 | [Java](./number_of_zigzag_arrays_1.java) | Hard | 23-06-26|
+| 93 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | 994 | [Java](./rotting_oranges.java) | Medium | 23-06-26|
 
 
 
