@@ -104,6 +104,7 @@
 | 91 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons) | 1189 | [Java](./max_number_of_baloons.java) | Easy | 22-06-26|
 | 92 | [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i) | 3699 | [Java](./number_of_zigzag_arrays_1.java) | Hard | 23-06-26|
 | 93 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | 994 | [Java](./rotting_oranges.java) | Medium | 23-06-26|
+| 94 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | 215 | [Java](./kth_largest_element_in_array.java) | Medium | 24-06-26|
 
 
 
