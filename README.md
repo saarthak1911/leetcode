@@ -105,6 +105,8 @@
 | 92 | [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i) | 3699 | [Java](./number_of_zigzag_arrays_1.java) | Hard | 23-06-26|
 | 93 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | 994 | [Java](./rotting_oranges.java) | Medium | 23-06-26|
 | 94 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | 215 | [Java](./kth_largest_element_in_array.java) | Medium | 24-06-26|
+| 95 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set) | 2336 | [Java](./smallest_number_in_infinite_set.java) | Medium | 25-06-26|
+| 96 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score) | 2542 | [Java](./max_subsequence_score.java) | Medium | 26-06-26|
 
 
 
