@@ -107,6 +107,7 @@
 | 94 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | 215 | [Java](./kth_largest_element_in_array.java) | Medium | 24-06-26|
 | 95 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set) | 2336 | [Java](./smallest_number_in_infinite_set.java) | Medium | 25-06-26|
 | 96 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score) | 2542 | [Java](./max_subsequence_score.java) | Medium | 26-06-26|
+| 97 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers) | 2462 | [Java](./total_cost_to_hire_k_workers.java) | Medium | 27-06-26|
 
 
 
