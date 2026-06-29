@@ -109,7 +109,7 @@
 | 96 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score) | 2542 | [Java](./max_subsequence_score.java) | Medium | 26-06-26|
 | 97 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers) | 2462 | [Java](./total_cost_to_hire_k_workers.java) | Medium | 27-06-26|
 | 98 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | 374 | [Java](./guess_num_higher_or_lower.java) | Medium | 28-06-26|
-
+| 99 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions) | 2300 | [Java](./successful_pairs_of_spells_and_potions.java) | Medium | 29-06-26|
 
 
 
