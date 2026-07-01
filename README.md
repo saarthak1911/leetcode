@@ -111,6 +111,7 @@
 | 98 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | 374 | [Java](./guess_num_higher_or_lower.java) | Medium | 28-06-26|
 | 99 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions) | 2300 | [Java](./successful_pairs_of_spells_and_potions.java) | Medium | 29-06-26|
 | 100 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) | 162 | [Java](./find_peak_element.java) | Medium | 30-06-26|
+| 101 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | 875 | [Java](./koko_eating_bananas.java) | Medium | 01-07-26|
 
 
 
