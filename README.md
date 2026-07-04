@@ -114,5 +114,6 @@
 | 101 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | 875 | [Java](./koko_eating_bananas.java) | Medium | 01-07-26|
 | 102 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | 17 | [Java](./letter_combinations_of_phone_number.java) | Medium | 02-07-26|
 | 103 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii) | 216 | [Java](./combination_sum_3.java) | Medium | 03-07-26|
+| 104 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | 1137 | [Java](./nth_tribonacci_number.java) | Easy | 04-07-26|
 
 
