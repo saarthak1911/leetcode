@@ -115,5 +115,6 @@
 | 102 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | 17 | [Java](./letter_combinations_of_phone_number.java) | Medium | 02-07-26|
 | 103 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii) | 216 | [Java](./combination_sum_3.java) | Medium | 03-07-26|
 | 104 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | 1137 | [Java](./nth_tribonacci_number.java) | Easy | 04-07-26|
+| 105 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | 746 | [Java](./min_cost_climbing_stairs.java) | Easy | 05-07-26|
 
 
