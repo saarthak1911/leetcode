@@ -116,5 +116,6 @@
 | 103 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii) | 216 | [Java](./combination_sum_3.java) | Medium | 03-07-26|
 | 104 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | 1137 | [Java](./nth_tribonacci_number.java) | Easy | 04-07-26|
 | 105 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | 746 | [Java](./min_cost_climbing_stairs.java) | Easy | 05-07-26|
+| 106 | [House Robber](https://leetcode.com/problems/house-robber) | 198 | [Java](./house_robber.java) | Medium | 06-07-26|
 
 
