@@ -117,5 +117,10 @@
 | 104 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | 1137 | [Java](./nth_tribonacci_number.java) | Easy | 04-07-26|
 | 105 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | 746 | [Java](./min_cost_climbing_stairs.java) | Easy | 05-07-26|
 | 106 | [House Robber](https://leetcode.com/problems/house-robber) | 198 | [Java](./house_robber.java) | Medium | 06-07-26|
+| 107 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | 1137 | [Java](./nth_tribonacci_number.java) | Easy | 07-07-26|
+| 108 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling) | 790 | [Java](./domino_tromino_tiling.java) | Medium | 07-07-26|
+| 109 | [Unique Paths](https://leetcode.com/problems/unique-paths) | 62 | [Java](./unique_paths.java) | Medium | 08-07-26|
+| 110 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | 1143 | [Java](./longest_common_subsequence.java) | Medium | 09-07-26|
+| 111 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | 714 | [Java](./best_time_to_buy_and_sell_stock_with_transaction_fee.java) | Medium | 10-07-26|
 
 
