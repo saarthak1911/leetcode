@@ -122,5 +122,6 @@
 | 109 | [Unique Paths](https://leetcode.com/problems/unique-paths) | 62 | [Java](./unique_paths.java) | Medium | 08-07-26|
 | 110 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | 1143 | [Java](./longest_common_subsequence.java) | Medium | 09-07-26|
 | 111 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | 714 | [Java](./best_time_to_buy_and_sell_stock_with_transaction_fee.java) | Medium | 10-07-26|
+| 112 | [Edit Distance](https://leetcode.com/problems/edit-distance) | 72 | [Java](./edit_distance.java) | Medium | 11-07-26|
 
 
