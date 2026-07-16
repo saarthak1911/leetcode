@@ -126,5 +126,6 @@
 | 113 | [Counting Bits](https://leetcode.com/problems/counting-bits) | 338 | [Java](./counting_bits.java) | Easy | 12-07-26|
 | 114 | [Single Number](https://leetcode.com/problems/single-number) | 136 | [Java](./single_number.java) | Easy | 13-07-26|
 | 115 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c) | 1318 | [Java](./min_flips_to_make_a_or_b_equals_to_c.java) | Medium | 14-07-26|
+| 116 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) | 1268 | [Java](./search_suggestion_system.java) | Medium | 14-07-26|
 
 
