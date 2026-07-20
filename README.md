@@ -126,6 +126,11 @@
 | 113 | [Counting Bits](https://leetcode.com/problems/counting-bits) | 338 | [Java](./counting_bits.java) | Easy | 12-07-26|
 | 114 | [Single Number](https://leetcode.com/problems/single-number) | 136 | [Java](./single_number.java) | Easy | 13-07-26|
 | 115 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c) | 1318 | [Java](./min_flips_to_make_a_or_b_equals_to_c.java) | Medium | 14-07-26|
-| 116 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) | 1268 | [Java](./search_suggestion_system.java) | Medium | 14-07-26|
+| 116 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | 208 | [Java](./implement_trie.java) | Medium | 15-07-26|
+| 117 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) | 1268 | [Java](./search_suggestion_system.java) | Medium | 16-07-26|
+| 118 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | 435 | [Java](./non_overlapping_intervals.java) | Medium | 17-07-26|
+| 119 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | 452 | [Java](./min_number_of_arrows_to_burst_balloons.java) | Medium | 18-07-26|
+| 120 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | 739 | [Java](./daily_temperatures.java) | Medium | 19-07-26|
+| 121 | [Online Stock Span](https://leetcode.com/problems/online-stock-span) | 901 | [Java](./online_stock_span.java) | Medium | 20-07-26|
 
 
