@@ -3,9 +3,9 @@
 | Difficulty | Count |
 |------------|-------|
 | Easy       | 35    |
-| Medium     | 75    |
+| Medium     | 76    |
 | Hard       | 11     |
-| **Total**  | **121** |
+| **Total**  | **122** |
 
 ## LeetCode Algorithm
 
@@ -132,5 +132,6 @@
 | 119 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | 452 | [Java](./min_number_of_arrows_to_burst_balloons.java) | Medium | 18-07-26|
 | 120 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | 739 | [Java](./daily_temperature.java) | Medium | 19-07-26|
 | 121 | [Online Stock Span](https://leetcode.com/problems/online-stock-span) | 901 | [Java](./online_stock_span.java) | Medium | 20-07-26|
+| 122 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | 424 | [Java](./longest_repeting_character_replacement.java) | Medium | 21-07-26|
 
 
