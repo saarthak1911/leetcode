@@ -133,6 +133,6 @@
 | 120 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | 739 | [Java](./daily_temperature.java) | Medium | 19-07-26|
 | 121 | [Online Stock Span](https://leetcode.com/problems/online-stock-span) | 901 | [Java](./online_stock_span.java) | Medium | 20-07-26|
 | 122 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | 424 | [Java](./longest_repeting_character_replacement.java) | Medium | 21-07-26|
-| 123 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 3 | [Java](./longest_substring_without_repeating_characters.java) | Medium | 22-07-26|
+| 123 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | 3 | [Java](./longest_substring_without_repeting_characters.java) | Medium | 22-07-26|
 
 
