@@ -137,7 +137,7 @@
 | 124 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | 33 | [Java](./search_in_rotated_sorted_array.java) | Medium | 23-07-26|
 | 125 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | 2235 | [Python](./add_two_integer.py) | Easy | 24-07-26|
 | 126 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | 19 | [Java](./remove_nth_node_from_end_of_list.java) | Medium | 25-07-26|
-| 127 | [Two Sum](https://leetcode.com/problems/two-sum) | 1 | [Java](./two_sum.java) | Easy | 26-07-26|
+| 127 | [Two Sum](https://leetcode.com/problems/two-sum) | 1 | [Java](./two_sum.c) | Easy | 26-07-26|
 | 128 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | 14 | [Java](./longest_common_prefix.java) | Easy | 27-07-26|
 | 129 | [ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | 26 | [Java](./remove_duplicates_from_sorted_array.java) | Easy | 28-07-26|
 
