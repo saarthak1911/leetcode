@@ -141,6 +141,7 @@
 | 128 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | 14 | [Java](./longest_common_prefix.java) | Easy | 27-07-26|
 | 129 | [ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | 26 | [Java](./remove_duplicates_from_sorted_array.java) | Easy | 28-07-26|
 | 130 | [Remove Element](https://leetcode.com/problems/remove-element) | 27 | [Java](./remove_element.java) | Easy | 29-07-26|
+| 131 | [Majority Element](https://leetcode.com/problems/majority-element) | 169 | [Java](./majority_element.java) | Easy | 30-07-26|
 
 
 
