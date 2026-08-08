@@ -142,7 +142,14 @@
 | 129 | [ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | 26 | [Java](./remove_duplicates_from_sorted_array.java) | Easy | 28-07-26|
 | 130 | [Remove Element](https://leetcode.com/problems/remove-element) | 27 | [Java](./remove_element.java) | Easy | 29-07-26|
 | 131 | [Majority Element](https://leetcode.com/problems/majority-element) | 169 | [Java](./majority_element.java) | Easy | 30-07-26|
-
+| 132 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 238 | [Python](./product_of_array_except_self.py) | Medium | 31-08-26|
+| 133 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 509 | [Java](./fibonacci_number.java) | Easy | 01-08-26|
+| 134 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 283 | [Java](./move_zeros.java) | Easy | 02-08-26|
+| 135 | [Maximum Number of Vowels in a Substring of Given Length ](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length) | 1456 | [Java](./max_num_of_vowels_in_substring.java) | Medium | 03-08-26|
+| 136 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | 3731 | [Java](./find_missing_elements.java) | Easy | 04-08-26|
+| 137 | [Container With Most Water ](https://leetcode.com/problems/container-with-most-water) | 11 | [Java](./container_with_most_water.java) | Medium | 05-08-26|
+| 138 | [Search in Rotated Sorted Array ](https://leetcode.com/problems/search-in-rotated-sorted-array) | 33 | [Java](./search_in_rotated_sorted_array.java) | Medium | 06-08-26|
+| 139 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | 206 | [Java](./reverse_linked_list.java) | Easy | 07-08-26|
 
 
 
