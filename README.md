@@ -150,6 +150,30 @@
 | 137 | [Container With Most Water ](https://leetcode.com/problems/container-with-most-water) | 11 | [Java](./container_with_most_water.java) | Medium | 05-08-26|
 | 138 | [Search in Rotated Sorted Array ](https://leetcode.com/problems/search-in-rotated-sorted-array) | 33 | [Java](./search_in_rotated_sorted_array.java) | Medium | 06-08-26|
 | 139 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | 206 | [Java](./reverse_linked_list.java) | Easy | 07-08-26|
+| 140 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-numbe) | 1137 | [Java](./nth_tribonacci_number.java) | Easy | 08-08-26|
+| 141 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling) | 790 | [Java](./domino_tromino_tiling.java) | Medium | 09-08-26|
+| 142 | [Unique Paths](https://leetcode.com/problems/unique-paths) | 62 | [Java](./unique_paths.java) | Medium | 10-08-26|
+| 143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | 1143 | [Java](./longest_common_subsequence.java) | Medium | 11-08-26|
+| 144 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | 714 | [Java](./best_time_to_buy_and_sell_stock_with_transaction_fee.java) | Medium | 12-08-26|
+| 145 | [Edit Distance](https://leetcode.com/problems/edit-distance) | 72 | [Java](./edit_distance.java) | Medium | 13-08-26|
+| 146 | [Counting Bits](https://leetcode.com/problems/counting-bits) | 338 | [Java](./counting_bits.java) | Easy | 14-08-26|
+| 147 | [Single Number](https://leetcode.com/problems/single-number) | 136 | [Java](./single_number.java) | Easy | 15-08-26|
+| 148 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c) | 1318 | [Java](./min_flips_to_make_a_or_b_equals_to_c.java) | Medium | 16-08-26|
+| 149 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) | 1268 | [Java](./search_suggestion_system.java) | Medium | 17-08-26|
+| 150 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | 435 | [Java](./non_overlapping_intervals.java) | Medium | 18-08-26|
+| 151 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | 452 | [Java](./min_number_of_arrows_to_burst_balloons.java) | Medium | 19-08-26|
+| 152 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | 739 | [Java](./daily_temperature.java) | Medium | 20-08-26|
+| 153 | [Online Stock Span](https://leetcode.com/problems/online-stock-span) | 901 | [Java](./online_stock_span.java) | Medium | 21-08-26|
+| 154 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | 424 | [Java](./longest_repeting_character_replacement.java) | Medium | 22-08-26|
+| 155 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | 33 | [Java](./search_in_rotated_sorted_array.java) | Medium | 23-08-26|
+| 156 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | 19 | [Java](./remove_nth_node_from_end_of_list.java) | Medium | 24-08-26|
+| 157 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements) | 3731 | [Java](./find_missing_elements.java) | Easy | 25-08-26|
+| 158 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | 9 | [Java](./palindrome_no.java) | Easy | 26-08-26|
+| 159 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | 20 | [Java](./valid_parentheses.java) | Easy | 27-08-26|
+
+
+
+
 
 
 
